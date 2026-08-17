@@ -2,7 +2,7 @@
 
 **`Aprendendo a programar`**
 
-Me chamo Gabriel Rodrigues Simas Gonçalves, sou de São Paulo, tenho 19 anos, e vim recentemente para Curitiba. Estou estudando Análise e Desenvolvimento de Sistemas na UFPR. Sou autodidata e tenho interesses variados: música, matemática, filosofia, religião, programação é mais um deles.
+Me chamo Gabriel Rodrigues Simas Gonçalves, sou de São Paulo, tenho 20 anos, e vim recentemente para Curitiba. Estou estudando Análise e Desenvolvimento de Sistemas na UFPR. Sou autodidata e tenho interesses variados: música, matemática, filosofia, religião, programação é mais um deles.
 
    </a>
         />
